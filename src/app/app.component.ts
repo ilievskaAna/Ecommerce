@@ -10,6 +10,7 @@ import { Component, OnInit } from '@angular/core';
   `,
   styles: []
 })
+
 export class AppComponent implements OnInit{
   cart: Cart = {items: []};
 
